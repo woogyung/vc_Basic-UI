@@ -3,16 +3,16 @@
 두 가지 미션이 있습니다. HTML/CSS/JS를 이용하여 구현해주세요. 주어진 하나의 템플릿에 두 가지 모두 작업해주세요.
 자바스크립트의 경우, 동일한 파일에 작업하시되 주석 처리를 하여 Menu 또는 Accordion 관련 부분을 표기해주세요.
 
-- 첫번째: [메뉴 UI 만들기](#Menu-UI)
-- 두번째: [아코디언 UI 만들기](#Accordion-UI)
+1. [메뉴 UI 만들기](#Menu)
+2. [아코디언 UI 만들기](#Accordion)
 
-# Menu UI
+# Menu
 
 - 다음과 같이 작동하는 Menu UI를 만들어 주세요.
 
 ![screenshot](https://github.com/vanilla-coding/basic-ui/blob/master/menu.gif?raw=true)
 
-# Accordion UI
+# Accordion
 
 - 다음과 같이 작동하는 Accordion UI를 만들어 주세요.
 
